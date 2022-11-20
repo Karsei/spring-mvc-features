@@ -1,4 +1,4 @@
-package kr.pe.karsei.mvcfeatures.basic;
+package kr.pe.karsei.thymeleafdemo.basic;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

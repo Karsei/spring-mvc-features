@@ -1,4 +1,4 @@
-package kr.pe.karsei.mvcfeatures.basic;
+package kr.pe.karsei.thymeleafdemo.basic;
 
 import lombok.Data;
 import org.springframework.stereotype.Component;
